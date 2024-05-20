@@ -25,12 +25,19 @@ Using Power Query, I cleaned the dataset and added new columns such as day name,
 With this refined dataset, I used pivot tables to address the following questions:
 
 How do sales vary by day of the week and hour of the day?
+
 Are there any peak times for sales activity?
+
 What is the total sales revenue for each month?
+
 How do sales vary across different store locations?
+
 What is the average price per order per person?
+
 Which products are the best-selling in terms of quantity and revenue?
+
 How do sales vary by product category and type?
+
 Finally, I created an interactive dashboard to present these insights visually.
 
-The primary objective of this project is to analyze retail sales data to generate actionable insights that will enhance the performance of the Coffee Shop.
+The fundamental aim of this initiative is to meticulously scrutinize retail sales data to derive actionable insights, thereby fostering improvements in the operational efficacy of the Coffee Shop.
