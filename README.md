@@ -41,3 +41,5 @@ How do sales vary by product category and type?
 Finally, I created an interactive dashboard to present these insights visually.
 
 The fundamental aim of this initiative is to meticulously scrutinize retail sales data to derive actionable insights, thereby fostering improvements in the operational efficacy of the Coffee Shop.
+
+Inspired from WsCube Tech
